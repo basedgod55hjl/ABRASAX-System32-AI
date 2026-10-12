@@ -84,7 +84,7 @@ LM_STUDIO_URL: str = "http://127.0.0.1:1234/v1"
 
 # LM STUDIO
 LM_STUDIO_URL: str = "http://127.0.0.1:1234/v1"
-LOCAL_MODEL: str = "gemma-4-e4b-it-uncensored-max-opus-4.7"
+LOCAL_MODEL: str = "gemma-4-e4b-uncensored-hauhaucs-aggressive"
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # SYSTEM32 AI DLL REGISTRY — All discovered alive AI components
